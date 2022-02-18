@@ -3,9 +3,9 @@ This is sample react application which reads PokemonGO JSON from Server and rend
 
 # Getting Started
 
-# Review the app here: https://sandeepkumar17.github.io/react-pokemon-go/
+Review the app here: https://sandeepkumar17.github.io/react-pokemon-go/
 
-# Run on your machine
+Run on your machine
 1. Clone the git repo in your local directory using ```git clone https://github.com/sandeepkumar17/react-pokemon-go.git```
 2. Switch to project directory and install the react-scripts by running:
     ### `npm install react-scripts --save`
