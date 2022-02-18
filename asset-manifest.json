@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-pokemon-go/static/css/main.f729fc5f.css",
-    "main.js": "/react-pokemon-go/static/js/main.21ae2ed7.js",
-    "static/js/787.dee2d894.chunk.js": "/react-pokemon-go/static/js/787.dee2d894.chunk.js",
-    "index.html": "/react-pokemon-go/index.html",
-    "main.f729fc5f.css.map": "/react-pokemon-go/static/css/main.f729fc5f.css.map",
-    "main.21ae2ed7.js.map": "/react-pokemon-go/static/js/main.21ae2ed7.js.map",
-    "787.dee2d894.chunk.js.map": "/react-pokemon-go/static/js/787.dee2d894.chunk.js.map"
+    "main.css": "/react-pokemon-go/public/static/css/main.f729fc5f.css",
+    "main.js": "/react-pokemon-go/public/static/js/main.65bae79a.js",
+    "static/js/787.dee2d894.chunk.js": "/react-pokemon-go/public/static/js/787.dee2d894.chunk.js",
+    "index.html": "/react-pokemon-go/public/index.html",
+    "main.f729fc5f.css.map": "/react-pokemon-go/public/static/css/main.f729fc5f.css.map",
+    "main.65bae79a.js.map": "/react-pokemon-go/public/static/js/main.65bae79a.js.map",
+    "787.dee2d894.chunk.js.map": "/react-pokemon-go/public/static/js/787.dee2d894.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f729fc5f.css",
-    "static/js/main.21ae2ed7.js"
+    "static/js/main.65bae79a.js"
   ]
 }
